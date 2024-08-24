@@ -29,6 +29,7 @@ ORDER BY
     avg_salary DESC
 ```
 
+
 ![](Images\1_Data_Jobs_Avg_Salary.png)
 
 ### 2. Data Analyst Postings by Month
