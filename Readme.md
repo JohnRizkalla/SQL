@@ -7,11 +7,10 @@ For SQl course click here [SQL Course](https://lukebarousse.com/sql)
 
 # Tools I Used
 
-- **SQL :**
-- **PostgreSQL :**
-- **Visual Studio Code :**
-- **GitHub :**
-- **Looker :**
+- **PostgreSQL :** For creating the database
+- **Visual Studio Code :** Code editor and queries execution
+- **GitHub :** Sharing the code & the analysis
+- **Looker :** Data vistualiztion
 
 # The Analysis
 
