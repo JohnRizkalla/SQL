@@ -1,8 +1,12 @@
 # Overview
 
-For SQL queries click here: [SQL queries](/Analysis/)
+An Analysis made on data jobs and focused on Data Analyst role.
 
-For SQl course click here [SQL Course](https://lukebarousse.com/sql)
+For SQL queries click here: [SQL queries](/Analysis/).
+
+For data source & data load code click her [SQL CSVs](https://drive.google.com/drive/folders/1moeWYoUtUklJO6NJdWo9OV8zWjRn0rjN).
+
+ If you want a recp on SQL queries or you are a begginner I highly recommend you to check this 4 hours course [SQL Course](https://lukebarousse.com/sql) prepared by [Luke Barousse](https://www.linkedin.com/in/luke-b/) & [Kelly Adams](https://www.linkedin.com/in/kellyjianadams/)
 
 
 # Tools I Used
@@ -15,6 +19,8 @@ For SQl course click here [SQL Course](https://lukebarousse.com/sql)
 # The Analysis
 
 ### 1. Data Jobs Avg. Salary
+
+An overview of all titles avg. year salary to know what is the Data Analyst rank.
 
 ```sql
 SELECT 
@@ -32,6 +38,8 @@ ORDER BY
 ![](Images/1_Data_Jobs_Avg_Salary.png)
 
 ### 2. Data Analyst Postings by Month
+
+An overview of Data Analyst job postings across year 2023 to determine the trend and which months have the most postings.
 
 ```sql
 SELECT
@@ -51,6 +59,8 @@ GROUP BY
 
 
 ### 3. Data Analyst Optimal Countries
+
+A query done for the count of job postings & the avg. year salary both per country to determine which counties have the highest job postings and having a relatively high salary.
 
 ```sql
 SELECT
@@ -74,6 +84,8 @@ ORDER BY
 
 
 ### 4. Data Analyst Optimal Skills
+
+A query done for the count of skills & the avg. year salary both for Data Analyst to determine which skills have the highest demand and having a relatively high salary.
 
 ```sql
 SELECT
@@ -103,3 +115,8 @@ ORDER BY
 
 
 # Insights
+
+#### 1. Sr. Data Analyst salaries ranked almost at the center for data jobs which is good but if you want more salary you might consider Data Scientist or Data Engineer roles.
+#### 2. January won the jackpot for aquiring the highest postings for Data Analyst jobs so you need to focus on its postings just a little more than other months.
+#### 3. In the United Satets you have a very high chance of aquiring a Data Analyst job with a relatively high salary as it has the highest Data Analyst postings, next to it you can search in Sudan, India & UK on the other hand you got Thailand, Greece & South Korea with the highest salaries but low job postings.
+#### 4. SQL, Python, Excel, Tableau, R & Power BI are the most demanded skills and having relatively high salaries so those are must to learn if you want a successful career as a Data Analyst.
