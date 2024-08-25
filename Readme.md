@@ -30,7 +30,7 @@ ORDER BY
 ```
 
 
-![](Images\1_Data_Jobs_Avg_Salary.png)
+![](Images/1_Data_Jobs_Avg_Salary.png)
 
 ### 2. Data Analyst Postings by Month
 
@@ -48,7 +48,7 @@ GROUP BY
 ```
 
 
-![](Images\2_Data_Analyst_Postings_by_Month.png)
+![](Images/2_Data_Analyst_Postings_by_Month.png)
 
 
 ### 3. Data Analyst Optimal Countries
@@ -71,7 +71,7 @@ ORDER BY
 ```
 
 
-![](Images\3_Data_Analyst_Optimal_Countries.png)
+![](Images/3_Data_Analyst_Optimal_Countries.png)
 
 
 ### 4. Data Analyst Optimal Skills
@@ -100,7 +100,7 @@ ORDER BY
 ```
 
 
-![](Images\4_Data_Analyst_Optimal_Skills.png)
+![](Images/4_Data_Analyst_Optimal_Skills.png)
 
 
 # Insights
